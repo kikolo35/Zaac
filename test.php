@@ -1,2 +1,2 @@
 <?php
-echo "sqdf;jnjkn";
+echo "sqdf;jkn";
